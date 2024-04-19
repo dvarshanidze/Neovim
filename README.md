@@ -16,14 +16,8 @@ Welcome to my LazyVim configuration repository! LazyVim is a minimalist Neovim s
     ```bash
     git clone https://github.com/dvarshanidze/lazyvim.git ~/.config/nvim
     ```
-
-2. **Install Plugins:**
-    Launch Neovim and run the following command to install plugins:
-    ```vim
-    :PlugInstall
-    ```
-
-3. **Restart Neovim:**
+    
+2. **Restart Neovim:**
     Restart Neovim for changes to take effect.
 
 ## Usage
