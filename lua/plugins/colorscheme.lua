@@ -4,7 +4,7 @@ return {
   priority = 1000,
   opts = function()
     return {
-      trasparent = true,
+      transparent = true,
     }
   end,
 }
