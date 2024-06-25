@@ -1,4 +1,4 @@
-# LazyVim Configuration
+# NeoVim Configuration
 
 Welcome to my LazyVim configuration repository! LazyVim is a minimalist Neovim setup focused on simplicity and efficiency. Here, you'll find my personalized configuration optimized for productivity with minimal fuss.
 
