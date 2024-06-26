@@ -8,7 +8,7 @@
 - **Minimal Dependencies:** Uses a minimal set of plugins and dependencies to keep things lightweight and fast.
 - **Easy Customization:** Customize and extend the configuration easily to suit your workflow and preferences.
 
-## Installation
+### Installation
 
 1. **Clone Repository:**
     ```bash
