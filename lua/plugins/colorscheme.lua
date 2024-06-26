@@ -1,5 +1,5 @@
 return {
-  "sho-87/kanagawa-paper.nvim",
+  "Mofiqul/vscode.nvim",
   lazy = true,
   priority = 1000,
   opts = function()
