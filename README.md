@@ -16,13 +16,3 @@ Welcome to my LazyVim configuration repository! LazyVim is a minimalist Neovim s
     ```bash
     git clone https://github.com/dvarshanidze/nvim-config ~/.config/nvim
     ```
-
- ```Start Neovim for changes to take effect.```
-
-## Usage
-
-Explore the configuration files (`init.vim` and other `.vim` files) to understand the setup and make any adjustments according to your preferences. LazyVim aims to provide a clean and efficient environment out of the box, but you're encouraged to tweak it to your liking.
-
-## Contributing
-
-If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request. Contributions are always welcome!
