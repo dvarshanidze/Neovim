@@ -1,10 +1,10 @@
 return {
-  "Craftzdog/solarized-osaka.nvim",
+  "Mofiqul/vscode.nvim",
   lazy = true,
   priority = 1000,
   opts = function()
     return {
-      transparent = false,
+      transparent = true,
     }
   end,
 }
