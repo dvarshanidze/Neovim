@@ -8,7 +8,6 @@ vim.cmd([[
 
 require("lualine").setup({
   options = {
-    theme = "gruvbox", -- Use your preferred theme
     component_separators = { left = " ", right = " " }, -- Replace separators with spaces
     section_separators = { left = " ", right = " " }, -- Replace section separators with spaces
   },
