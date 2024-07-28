@@ -1,5 +1,5 @@
 return {
-  "Mofiqul/vscode.nvim",
+  "ellisonleao/gruvbox.nvim",
   lazy = true,
   priority = 1000,
   opts = function()
